@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Fazer uma lagoritmo que leia um número e mostre o seu antecessor e o seu sucessor
+
 int main(){
 	
 	int num, ant, sus;
