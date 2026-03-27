@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+// Faça um algortimo que recebe dois valores inteiros e mostra o resultado da multiplicação
 int main(){
 	
 	int valor, valor2, result;
