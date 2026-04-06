@@ -15,5 +15,4 @@ int main(){
 	printf("o resultado e: %i", result);
 	
 	return 0;
-	
 }
