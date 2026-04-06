@@ -2,7 +2,7 @@
 #include <locale.h>
 #define PI 3.14159265359
 
-//Facça um algoritmo que recebe o valor do raio de um c´ırculo e apresenta o valor da área desse círculo
+//Faça um algoritmo que recebe o valor do raio de um c´ırculo e apresenta o valor da área desse círculo
 
 	int main(){
 		
