@@ -2,6 +2,8 @@
 #include <locale.h>
 #define PI 3.14159265359
 
+//Fazer um algoritmo que calcule e mostre a área e o volume de um cilindro. 
+
 	int main(){
 		
 		float raio, altura, areac, volume;
