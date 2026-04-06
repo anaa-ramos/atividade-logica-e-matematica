@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <locale.h>
 
+//Ler dois valores para as variaveis A e B, e efetuar as trocas dos valores de forma que a variavel A passe a possuir 
+//o valor da variavel B e a variavel B passe a possuir o valor da variavel A. Apresentar os valores trocados.
+
 	int main(){
 	
 			setlocale(LC_ALL,"Portuguese");
