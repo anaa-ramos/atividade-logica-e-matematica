@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <locale.h>
 
 //Faça um algoritmo que mostra a quantidade de cedulas de um caixa eletrônico de um banco.
